@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# next build
+.next
+
+# env files
+.env
