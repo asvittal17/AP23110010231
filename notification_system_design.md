@@ -279,7 +279,20 @@ npm run dev
 * http://localhost:3000
 * http://localhost:3000/priority
 
----
+
+## Screenshots
+
+### 1. All Notifications Page
+![All Notifications](./screenshots/1_all_notifications.png)
+
+### 2. Filter Functionality
+![Filter](./screenshots/2_filter_dropdown.png)
+
+### 3. Priority Page
+![Priority](./screenshots/3_priority_page.png)
+
+### 4. API Integration
+![API](./screenshots/7_api_network.png)
 
 ## 15. Conclusion
 
